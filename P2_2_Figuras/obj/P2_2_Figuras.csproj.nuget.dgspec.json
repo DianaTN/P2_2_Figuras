@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\DIANU\\Downloads\\P2_2_Figuras\\P2_2_Figuras.csproj": {}
+    "C:\\Users\\DIANU\\Downloads\\P2_2_Figuras\\P2_2_Figuras.csproj": {}
   },
   "projects": {
-    "c:\\Users\\DIANU\\Downloads\\P2_2_Figuras\\P2_2_Figuras.csproj": {
+    "C:\\Users\\DIANU\\Downloads\\P2_2_Figuras\\P2_2_Figuras.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\DIANU\\Downloads\\P2_2_Figuras\\P2_2_Figuras.csproj",
+        "projectUniqueName": "C:\\Users\\DIANU\\Downloads\\P2_2_Figuras\\P2_2_Figuras.csproj",
         "projectName": "P2_2_Figuras",
-        "projectPath": "c:\\Users\\DIANU\\Downloads\\P2_2_Figuras\\P2_2_Figuras.csproj",
+        "projectPath": "C:\\Users\\DIANU\\Downloads\\P2_2_Figuras\\P2_2_Figuras.csproj",
         "packagesPath": "C:\\Users\\DIANU\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\DIANU\\Downloads\\P2_2_Figuras\\obj\\",
+        "outputPath": "C:\\Users\\DIANU\\Downloads\\P2_2_Figuras\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\DIANU\\AppData\\Roaming\\NuGet\\NuGet.Config"
