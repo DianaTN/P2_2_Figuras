@@ -13,4 +13,9 @@ public class TrianguloEquilatero : Figura
     {
         return (Math.Sqrt(3) * (this._lado * this._lado) / 4);
     }
+
+    public override string ToString()
+    {
+        return $"Lado: {this._lado}  " + base.ToString();
+    }
 }

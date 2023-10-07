@@ -15,6 +15,4 @@ public abstract class Figura
     {
         return $"Color: {this._color}";
     }
-
-
 }

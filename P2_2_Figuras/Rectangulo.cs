@@ -18,6 +18,6 @@ public class Rectangulo : Figura
 
     public override string ToString()
     {
-        return $"Alto: {this._altura} Ancho: {this._bases} Color: " + base.ToString();
+        return $"Alto: {this._altura} Ancho: {this._bases} " + base.ToString();
     }
 }

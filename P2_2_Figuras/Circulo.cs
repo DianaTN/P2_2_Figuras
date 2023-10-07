@@ -13,4 +13,9 @@ public class Circulo : Figura
     {
         return Math.PI * (this._radio * this._radio);
     }
+
+    public override string ToString()
+    {
+        return $"Radio: {this._radio} " + base.ToString();
+    }
 }

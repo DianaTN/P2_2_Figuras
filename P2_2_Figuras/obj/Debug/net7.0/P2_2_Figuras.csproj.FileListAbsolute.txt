@@ -1,0 +1,14 @@
+C:\Users\DIANU\Downloads\P2_2_Figuras\bin\Debug\net7.0\P2_2_Figuras.exe
+C:\Users\DIANU\Downloads\P2_2_Figuras\bin\Debug\net7.0\P2_2_Figuras.deps.json
+C:\Users\DIANU\Downloads\P2_2_Figuras\bin\Debug\net7.0\P2_2_Figuras.runtimeconfig.json
+C:\Users\DIANU\Downloads\P2_2_Figuras\bin\Debug\net7.0\P2_2_Figuras.dll
+C:\Users\DIANU\Downloads\P2_2_Figuras\bin\Debug\net7.0\P2_2_Figuras.pdb
+C:\Users\DIANU\Downloads\P2_2_Figuras\obj\Debug\net7.0\P2_2_Figuras.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DIANU\Downloads\P2_2_Figuras\obj\Debug\net7.0\P2_2_Figuras.AssemblyInfoInputs.cache
+C:\Users\DIANU\Downloads\P2_2_Figuras\obj\Debug\net7.0\P2_2_Figuras.AssemblyInfo.cs
+C:\Users\DIANU\Downloads\P2_2_Figuras\obj\Debug\net7.0\P2_2_Figuras.csproj.CoreCompileInputs.cache
+C:\Users\DIANU\Downloads\P2_2_Figuras\obj\Debug\net7.0\P2_2_Figuras.dll
+C:\Users\DIANU\Downloads\P2_2_Figuras\obj\Debug\net7.0\refint\P2_2_Figuras.dll
+C:\Users\DIANU\Downloads\P2_2_Figuras\obj\Debug\net7.0\P2_2_Figuras.pdb
+C:\Users\DIANU\Downloads\P2_2_Figuras\obj\Debug\net7.0\P2_2_Figuras.genruntimeconfig.cache
+C:\Users\DIANU\Downloads\P2_2_Figuras\obj\Debug\net7.0\ref\P2_2_Figuras.dll
