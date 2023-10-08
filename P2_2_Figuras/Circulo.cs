@@ -9,6 +9,20 @@ public class Circulo : Figura
         this._radio = radio;
 
     }
+    public double GetRadio => this._radio;
+
+    public void SetRadio(double radio)
+    {
+        // De esta manera evitamos darle una capacidad negativa
+        if (radio < 0)
+        {
+            this._radio = 0;
+        }
+        else
+        {
+            this._radio = radio;
+        }
+    }
     public override double GetArea()
     {
         return Math.PI * (this._radio * this._radio);
@@ -16,6 +30,6 @@ public class Circulo : Figura
 
     public override string ToString()
     {
-        return $"Radio: {this._radio} " + base.ToString();
+        return $"Radio: {this._radio}" + " Area: " + GetArea();
     }
 }

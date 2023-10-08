@@ -8,11 +8,13 @@ namespace P2_2_Figuras;
 
 public abstract class Figura
 {
-    protected Color _color;
     public abstract double GetArea();
+
+    protected Color _color;
 
     public override string ToString()
     {
         return $"Color: {this._color}";
     }
 }
+
